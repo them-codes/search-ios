@@ -12,7 +12,7 @@ let searchVersionHash = "5e6f0335d413b24dc2fe3e84857e0f07607590c16ee837605cdaabc
 let searchUIVersionHash = "2d3774b9bbd87236fcd47b2f4a6b9b34e31b37641cdb5e1fb7f739c6ed431598"
 
 let mapboxMobileEventsVersion: Version = "1.0.0"
-let mapboxCommonVersion: Version = "16.0.0"
+let mapboxCommonVersion: Version = "16.2.0"
 
 let package = Package(
     name: "MapboxSearch",
