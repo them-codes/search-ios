@@ -39,7 +39,7 @@ let package = Package(
                  url: "https://github.com/mapbox/mapbox-events-ios",
                  from: mapboxMobileEventsVersion),
         .package(name: "MapboxCommon",
-                 url: "git@github.com:mapbox/mapbox-common-ios.git",
+                 url: "https://github.com/mapbox/mapbox-common-ios.git",
                  from: mapboxCommonVersion),
     ],
     targets: [
